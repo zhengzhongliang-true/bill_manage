@@ -1,0 +1,16 @@
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (12, '支出', '娱乐', '购买游戏', 5.92, '2022-12-19 13:48:01', '2022-12-19 13:48:01', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (11, '支出', '文化生活', '书本', 56.90, '2022-10-15 13:48:00', '2022-12-21 11:11:57', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (8, '支出', '理财', '购买基金', 1500.00, '2022-12-05 10:20:59', '2022-12-05 10:20:59', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (9, '支出', '理财', '购买股票', 2500.00, '2020-07-17 18:47:20', '2020-07-17 18:47:20', 1);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (10, '支出', '娱乐', '购买音乐VIP', 30.00, '2021-06-01 09:48:00', '2021-06-01 09:48:00', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (14, '收入', '工资', '基本工资', 6522.15, '2022-12-21 11:07:30', '2022-12-21 11:07:30', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (18, '收入', '转账', '快餐店兼职', 250.00, '2022-12-21 11:21:50', '2022-12-21 11:22:16', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (6, '支出', '餐饮', '黑天鹅', 1200.00, '2022-03-01 08:20:10', '2022-03-01 08:20:10', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (5, '支出', '娱乐', '购买游戏', 65.00, '2022-01-01 13:47:58', '2022-01-01 13:47:58', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (4, '支出', '交通', '共享单车费用', 3.72, '2022-12-01 17:47:57', '2022-12-01 17:47:57', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (16, '支出', '彩票', '体育彩票', 50.00, '2022-12-21 11:10:51', '2022-12-21 11:10:51', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (3, '支出', '娱乐', '购买游戏', 15.50, '2022-12-07 17:44:54', '2022-12-07 17:44:54', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (1, '收入', '薪资', '7月份工资', 11000.00, '2022-08-15 15:44:32', '2022-08-15 15:44:32', 1);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (13, '收入', '薪资', '10月份工资', 9800.00, '2022-11-15 10:20:01', '2022-11-15 10:20:01', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (15, '支出', '彩票', '体育彩票', 20.00, '2022-12-21 11:10:17', '2022-12-21 11:10:17', 0);
+INSERT INTO `bill_info` (`id`, `type`, `category`, `content`, `amount`, `paid_time`, `last_updata`, `favorite`) VALUES (17, '支出', '交通出行', '打车软件', 23.68, '2022-12-21 11:21:05', '2022-12-21 11:21:05', 0);

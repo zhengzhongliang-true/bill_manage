@@ -1,0 +1,164 @@
+{
+  "RECORDS": [
+    {
+      "id": 12,
+      "type": "支出",
+      "category": "娱乐",
+      "content": "购买游戏",
+      "amount": 5.92,
+      "paid_time": "19/12/2022 13:48:01",
+      "last_updata": "19/12/2022 13:48:01",
+      "favorite": 0
+    },
+    {
+      "id": 11,
+      "type": "支出",
+      "category": "文化生活",
+      "content": "书本",
+      "amount": 56.9,
+      "paid_time": "15/10/2022 13:48:00",
+      "last_updata": "21/12/2022 11:11:57",
+      "favorite": 0
+    },
+    {
+      "id": 8,
+      "type": "支出",
+      "category": "理财",
+      "content": "购买基金",
+      "amount": 1500.0,
+      "paid_time": "5/12/2022 10:20:59",
+      "last_updata": "5/12/2022 10:20:59",
+      "favorite": 0
+    },
+    {
+      "id": 9,
+      "type": "支出",
+      "category": "理财",
+      "content": "购买股票",
+      "amount": 2500.0,
+      "paid_time": "17/7/2020 18:47:20",
+      "last_updata": "17/7/2020 18:47:20",
+      "favorite": 1
+    },
+    {
+      "id": 10,
+      "type": "支出",
+      "category": "娱乐",
+      "content": "购买音乐VIP",
+      "amount": 30.0,
+      "paid_time": "1/6/2021 09:48:00",
+      "last_updata": "1/6/2021 09:48:00",
+      "favorite": 0
+    },
+    {
+      "id": 14,
+      "type": "收入",
+      "category": "工资",
+      "content": "基本工资",
+      "amount": 6522.15,
+      "paid_time": "21/12/2022 11:07:30",
+      "last_updata": "21/12/2022 11:07:30",
+      "favorite": 0
+    },
+    {
+      "id": 18,
+      "type": "收入",
+      "category": "转账",
+      "content": "快餐店兼职",
+      "amount": 250.0,
+      "paid_time": "21/12/2022 11:21:50",
+      "last_updata": "21/12/2022 11:22:16",
+      "favorite": 0
+    },
+    {
+      "id": 6,
+      "type": "支出",
+      "category": "餐饮",
+      "content": "黑天鹅",
+      "amount": 1200.0,
+      "paid_time": "1/3/2022 08:20:10",
+      "last_updata": "1/3/2022 08:20:10",
+      "favorite": 0
+    },
+    {
+      "id": 5,
+      "type": "支出",
+      "category": "娱乐",
+      "content": "购买游戏",
+      "amount": 65.0,
+      "paid_time": "1/1/2022 13:47:58",
+      "last_updata": "1/1/2022 13:47:58",
+      "favorite": 0
+    },
+    {
+      "id": 4,
+      "type": "支出",
+      "category": "交通",
+      "content": "共享单车费用",
+      "amount": 3.72,
+      "paid_time": "1/12/2022 17:47:57",
+      "last_updata": "1/12/2022 17:47:57",
+      "favorite": 0
+    },
+    {
+      "id": 16,
+      "type": "支出",
+      "category": "彩票",
+      "content": "体育彩票",
+      "amount": 50.0,
+      "paid_time": "21/12/2022 11:10:51",
+      "last_updata": "21/12/2022 11:10:51",
+      "favorite": 0
+    },
+    {
+      "id": 3,
+      "type": "支出",
+      "category": "娱乐",
+      "content": "购买游戏",
+      "amount": 15.5,
+      "paid_time": "7/12/2022 17:44:54",
+      "last_updata": "7/12/2022 17:44:54",
+      "favorite": 0
+    },
+    {
+      "id": 1,
+      "type": "收入",
+      "category": "薪资",
+      "content": "7月份工资",
+      "amount": 11000.0,
+      "paid_time": "15/8/2022 15:44:32",
+      "last_updata": "15/8/2022 15:44:32",
+      "favorite": 1
+    },
+    {
+      "id": 13,
+      "type": "收入",
+      "category": "薪资",
+      "content": "10月份工资",
+      "amount": 9800.0,
+      "paid_time": "15/11/2022 10:20:01",
+      "last_updata": "15/11/2022 10:20:01",
+      "favorite": 0
+    },
+    {
+      "id": 15,
+      "type": "支出",
+      "category": "彩票",
+      "content": "体育彩票",
+      "amount": 20.0,
+      "paid_time": "21/12/2022 11:10:17",
+      "last_updata": "21/12/2022 11:10:17",
+      "favorite": 0
+    },
+    {
+      "id": 17,
+      "type": "支出",
+      "category": "交通出行",
+      "content": "打车软件",
+      "amount": 23.68,
+      "paid_time": "21/12/2022 11:21:05",
+      "last_updata": "21/12/2022 11:21:05",
+      "favorite": 0
+    }
+  ]
+}
